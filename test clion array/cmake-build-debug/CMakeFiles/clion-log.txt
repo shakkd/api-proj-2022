@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/shak/Desktop/coding/uni/proj api/test clion array Select CMakeLists.txt

@@ -1,0 +1,5 @@
+# ninja log v5
+880	1080	1659797786690049340	test_clion	8e5c215e6fe05d8d
+1	879	1659797786486981059	CMakeFiles/test_clion.dir/main.c.o	ef78a2a1e4153efa
+1	413	1659804069508131008	CMakeFiles/test_clion.dir/main.c.o	ef78a2a1e4153efa
+413	572	1659804069669505770	test_clion	8e5c215e6fe05d8d

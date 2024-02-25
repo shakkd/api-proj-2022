@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -fno-omit-frame-pointer -O0 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_clion.dir/main.c.o -o test_clion 
